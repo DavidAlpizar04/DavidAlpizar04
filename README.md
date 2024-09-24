@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/david-alpizar-64a439328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="40" width="40" margin-right="20px"/></a>
 <a href="https://www.instagram.com/alpizar.hd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjunchaudhary27" height="40" width="40"  margin-right="20px"/></a>
-<a href="herley.david.alpizar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="@arjunsingh10" height="40" width="40"  margin-right="20px"/></a>
+<a href="mailto:herley.david.alpizar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="@arjunsingh10" height="40" width="40"  margin-right="20px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
